@@ -2,11 +2,11 @@
 
 ### Location :office:
 * The 16th ACM International Conference on Web Search and Data Mining (WSDM' 2023)
-* Carlton Hotel Singapore, 76 Bras Basah Road, Singapore
+* Level 2, Empress 1, Carlton Hotel Singapore, 76 Bras Basah Road, Singapore
 * Zoom [TBD]
 
 ### Time :clock10:
-* Feb 27th, 2023 [TBD]
+* 8:30am - 12:00pm, Feb 27th, 2023 (Singapore Time)
 
 ### Abstract :book:
 * In the big data era, the relationship between entities becomes more complex. Therefore, graph (or network) data attracts increasing research attention for carrying complex relational information. For a myriad of graph mining/learning tasks, graph neural networks (GNNs) have been proven as effective tools for extracting informative node and graph representations, which empowers a broad range of applications such as recommendation, fraud detection, molecule design, and many more. However, real-world scenarios bring pragmatic challenges to GNNs. First, the input graphs are evolving, i.e., the graph structure and node features are time-dependent. Integrating temporal information into the GNNs to enhance their representation power requires additional ingenious designs. Second, the input graphs may be unreliable, noisy, and suboptimal for a variety of downstream graph mining/learning tasks. How could end-users deliberately modify the given graphs (e.g., graph topology and node features) to boost GNNs' utility (e.g., accuracy and robustness)?
