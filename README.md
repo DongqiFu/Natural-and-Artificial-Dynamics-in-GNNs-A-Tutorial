@@ -13,9 +13,9 @@
 * Inspired by the above two kinds of dynamics, in this tutorial, we focus on topics of **natural dynamics** and **artificial dynamics** in GNNs and introduce the related works systematically. After that, we point out some promising but under-explored research problems in the combination of these two dynamics. We hope this tutorial could be beneficial to researchers and practitioners in areas including data mining, machine learning, and general artificial intelligence.
 
 ### Authors and Presenters :microphone:
-* [Dongqi Fu](https://dongqifu.github.io/): Ph.D. student at the Department of Computer Science, University of Illinois Urbana-Champaign
+* [Dongqi Fu](https://dongqifu.github.io/): Ph.D. student at the Department of Computer Science, University of Illinois at Urbana-Champaign
 
-* [Zhe Xu](https://pricexu.github.io/): Ph.D. student at the Department of Computer Science, University of Illinois Urbana-Champaign
+* [Zhe Xu](https://pricexu.github.io/): Ph.D. student at the Department of Computer Science, University of Illinois at Urbana-Champaign
 
 * [Hanghang Tong](http://tonghanghang.org/): Associate professor at the Department of Computer Science, University of Illinois at Urbana-Champaign
 
