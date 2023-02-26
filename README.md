@@ -3,7 +3,7 @@
 ### Location :office:
 * The 16th ACM International Conference on Web Search and Data Mining (WSDM' 2023)
 * Level 2, Empress 1, Carlton Hotel Singapore, 76 Bras Basah Road, Singapore
-* Zoom [TBD]
+* Zoom: [Link](https://zoom.us/j/93670940327?pwd=aVArWW9XNVZWNmpwYUdXUS9uV3AvZz09)
 
 ### Time :clock10:
 * 8:30 am - 12:00 pm, Feb 27th, 2023 (Singapore Time)
