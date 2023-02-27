@@ -22,6 +22,6 @@
 * [Jingrui He](https://www.hejingrui.org/): Associate professor at the School of Information Sciences, University of Illinois at Urbana-Champaign
 
 ### Tutorial Material :floppy_disk:
-* Slides [TBD]
+* [Slides](https://github.com/DongqiFu/Natural-and-Artificial-Dynamics-in-GNNs-A-Tutorial/blob/main/WSDM'23%20Tutorial%200227.pdf)
 * Recorded Video [TBD]
 * Convered Papers [TBD]
