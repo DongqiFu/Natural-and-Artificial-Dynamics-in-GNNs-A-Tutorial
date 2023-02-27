@@ -24,4 +24,4 @@
 ### Tutorial Material :floppy_disk:
 * [Slides](https://github.com/DongqiFu/Natural-and-Artificial-Dynamics-in-GNNs-A-Tutorial/blob/main/WSDM'23%20Tutorial%200227.pdf)
 * Recorded Video [TBD]
-* Convered Papers [TBD]
+<!-- * Convered Papers [TBD] -->
